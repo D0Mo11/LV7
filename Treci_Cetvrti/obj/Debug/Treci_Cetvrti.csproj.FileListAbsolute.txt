@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\LV7\Treci_Cetvrti\bin\Debug\Treci_Cetvrti.exe.config
+C:\Users\Korisnik\source\repos\LV7\Treci_Cetvrti\bin\Debug\Treci_Cetvrti.exe
+C:\Users\Korisnik\source\repos\LV7\Treci_Cetvrti\bin\Debug\Treci_Cetvrti.pdb
+C:\Users\Korisnik\source\repos\LV7\Treci_Cetvrti\obj\Debug\Treci_Cetvrti.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\LV7\Treci_Cetvrti\obj\Debug\Treci_Cetvrti.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\LV7\Treci_Cetvrti\obj\Debug\Treci_Cetvrti.exe
+C:\Users\Korisnik\source\repos\LV7\Treci_Cetvrti\obj\Debug\Treci_Cetvrti.pdb

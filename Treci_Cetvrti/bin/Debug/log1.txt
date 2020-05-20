@@ -1,0 +1,15 @@
+20.5.2020. 14:30:03-> CPU load: 100 Available RAM: 2373
+20.5.2020. 14:30:04-> CPU load: 100 Available RAM: 2373
+20.5.2020. 14:30:05-> CPU load: 0 Available RAM: 2373
+20.5.2020. 14:30:06-> CPU load: 2,183494 Available RAM: 2371
+20.5.2020. 14:30:07-> CPU load: 0 Available RAM: 2369
+20.5.2020. 14:30:08-> CPU load: 100 Available RAM: 2369
+20.5.2020. 14:30:10-> CPU load: 100 Available RAM: 2369
+20.5.2020. 14:30:12-> CPU load: 100 Available RAM: 2369
+20.5.2020. 14:30:13-> CPU load: 100 Available RAM: 2369
+20.5.2020. 14:30:14-> CPU load: 0 Available RAM: 2369
+20.5.2020. 14:30:15-> CPU load: 0 Available RAM: 2369
+20.5.2020. 14:30:17-> CPU load: 100 Available RAM: 2370
+20.5.2020. 14:30:18-> CPU load: 0 Available RAM: 2370
+20.5.2020. 14:30:19-> CPU load: 100 Available RAM: 2370
+20.5.2020. 14:30:20-> CPU load: 0 Available RAM: 2370

@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\LV7\Prvi\bin\Debug\Prvi.exe.config
+C:\Users\Korisnik\source\repos\LV7\Prvi\bin\Debug\Prvi.exe
+C:\Users\Korisnik\source\repos\LV7\Prvi\bin\Debug\Prvi.pdb
+C:\Users\Korisnik\source\repos\LV7\Prvi\obj\Debug\Prvi.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\LV7\Prvi\obj\Debug\Prvi.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\LV7\Prvi\obj\Debug\Prvi.exe
+C:\Users\Korisnik\source\repos\LV7\Prvi\obj\Debug\Prvi.pdb
